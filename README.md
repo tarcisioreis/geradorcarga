@@ -1,0 +1,2 @@
+# geradorcarga
+Aplicação Java Desktop
