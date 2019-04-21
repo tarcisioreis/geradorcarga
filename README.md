@@ -4,11 +4,7 @@ Descrição:
 
 Aplicação Java Desktop para leitura de arquivo com extensão .dat com formato:
 
-001çCPFçNameçSalary
-002çCNPJçNameçBusiness Area
-003çSale IDç[Item ID-Item Quantity-Item Price]çSalesman name
-
-Ver diretório Documentação.
+    Ver diretório Documentação.
 
 
 Fluxo da aplicação:
