@@ -17,7 +17,9 @@ Fluxo da aplicação:
 
 4) Calcula-se a quantidade de clientes, vendedores, ID da venda mais cara e o pior vendedor que são salvos em outro arquivo com formato flat_filename.done.dat
 
-A aplicação usa Máquina de Turing para padrão do formato além das bibliotecas de validação de arquivo e string do Apache Commons para Java 8, FileUtils e StringUtils.
+A aplicação usa Máquina de Turing para reconhecimento do padrão do formato do arquivo além das bibliotecas de validação de arquivo e string do Apache Commons para Java 8, FileUtils e StringUtils.
+
+Executável encontra-se no diretório /bin/GeradorCarga.jar
 
 
 Dúvidas ou bugs entrar em contato com Tarcisio Machado dos Reis - +55 51 9 8490-4355 ou tarcisio.reis.ti@gmail.com
